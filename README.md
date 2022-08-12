@@ -34,7 +34,7 @@ Add to cart project created with CRA. Used react-use-cart cart hook to build car
 ### Setup
 
 - git clone `https://github.com/avahmetozdemir/add-to-cart`
-- cd react-form-validation
+- cd add-to-cart
 - run npm install
 - run npm run start
 
