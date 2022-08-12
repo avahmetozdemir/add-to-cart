@@ -6,7 +6,7 @@ Add to cart project created with CRA. Used react-use-cart cart hook to build car
 
 | Main Page   |      Cart Part     |
 |--------------|:-------------------:|
-| <img width="361" alt="main" src="https://github.com/avahmetozdemir/react-form-validation/blob/main/images/welcome-page.png?raw=true">    |  <img width="361" alt="cart" src="https://github.com/avahmetozdemir/react-form-validation/blob/main/images/all-errors.png?raw=true">       |
+| <img width="361" alt="main" src="https://github.com/avahmetozdemir/add-to-cart/blob/master/images/main.png?raw=true">    |  <img width="361" alt="cart" src="https://github.com/avahmetozdemir/add-to-cart/blob/master/images/cart.png?raw=true">       |
 
 
 ## live demo
